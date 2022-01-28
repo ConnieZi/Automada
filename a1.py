@@ -42,8 +42,4 @@ for read_line in in_file:
     else:
         print('Reject')
 
-in_file.close() 
-
-
-
-
+in_file.close()
